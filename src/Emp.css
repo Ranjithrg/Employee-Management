@@ -1,0 +1,53 @@
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .search-box,
+  .filter-dropdown {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .employee-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .employee-card {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #fff;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .employee-name {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .employee-details {
+    color: #555;
+    font-size: 14px;
+  }
+  
+  .employee-company {
+    font-size: 12px;
+    color: #777;
+  }
+  
